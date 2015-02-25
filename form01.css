@@ -1,0 +1,26 @@
+/*フォント*/
+body {
+    font-family: sans-serif;
+}
+
+
+/*フォーム*/
+
+form {
+	padding: 20px;
+	background-color: #697990;
+}
+
+form p {
+
+	margin: : 0 0 5px 0;
+}
+
+label {
+    
+	margin: 0 0 5px 0;
+	font-size: 14px;
+	color: #fff;
+}
+
+/*ボタン*/
